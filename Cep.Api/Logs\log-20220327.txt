@@ -1,0 +1,42 @@
+2022-03-27 21:24:46.356 -03:00 [INF] Application Starting.
+2022-03-27 21:24:47.332 -03:00 [INF] Now listening on: https://localhost:5001
+2022-03-27 21:24:47.453 -03:00 [INF] Now listening on: http://localhost:5000
+2022-03-27 21:24:47.457 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-27 21:24:47.458 -03:00 [INF] Hosting environment: Development
+2022-03-27 21:24:47.459 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2022-03-27 21:25:28.669 -03:00 [INF] Iniciando busca por cep: 04849050
+2022-03-27 21:25:28.786 -03:00 [INF] Carregando configurações do redis...
+2022-03-27 21:25:28.787 -03:00 [INF] Configurações carregadas com sucesso:
+2022-03-27 21:25:28.787 -03:00 [INF] Nome da instância: CepMicrosservice
+2022-03-27 21:25:28.787 -03:00 [INF] Servidor: localhost
+2022-03-27 21:25:28.788 -03:00 [INF] Tempo de expiração: 00:00:10
+2022-03-27 21:25:29.747 -03:00 [INF] Get 04849050
+2022-03-27 21:25:37.491 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2022-03-27 21:25:37.498 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2022-03-27 21:25:38.335 -03:00 [INF] Received HTTP response headers after 833.052ms - 200
+2022-03-27 21:25:38.345 -03:00 [INF] End processing HTTP request after 866.3849ms - 200
+2022-03-27 21:25:38.398 -03:00 [INF] inserindo 04849050: {"cep":"04849-050","logradouro":"Rua Demas Zitto","complemento":"","bairro":"Parque Residencial Cocaia","localidade":"S\u00E3o Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2022-03-27 21:25:38.436 -03:00 [INF] inserção realizada com sucesso no Redis!
+2022-03-27 21:25:38.446 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2022-03-27 21:31:51.100 -03:00 [INF] Application Starting.
+2022-03-27 21:31:51.630 -03:00 [INF] Now listening on: https://localhost:5001
+2022-03-27 21:31:51.632 -03:00 [INF] Now listening on: http://localhost:5000
+2022-03-27 21:31:51.633 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-27 21:31:51.633 -03:00 [INF] Hosting environment: Development
+2022-03-27 21:31:51.633 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2022-03-27 21:32:04.511 -03:00 [INF] Iniciando busca por cep: 04849050
+2022-03-27 21:32:04.550 -03:00 [INF] Carregando configurações do redis...
+2022-03-27 21:32:04.550 -03:00 [INF] Configurações carregadas com sucesso:
+2022-03-27 21:32:04.550 -03:00 [INF] Nome da instância: CepMicrosservice
+2022-03-27 21:32:04.550 -03:00 [INF] Servidor: localhost
+2022-03-27 21:32:04.550 -03:00 [INF] Tempo de expiração: 00:00:10
+2022-03-27 21:32:04.853 -03:00 [INF] Get 04849050
+2022-03-27 21:32:10.177 -03:00 [INF] inserindo 04849050: {"cep":"04849-050","logradouro":"Rua Demas Zitto","complemento":"","bairro":"Parque Residencial Cocaia","localidade":"S\u00E3o Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2022-03-27 21:32:10.196 -03:00 [INF] inserção realizada com sucesso no Redis!
+2022-03-27 21:32:10.199 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2022-03-27 21:43:34.584 -03:00 [INF] Application Starting.
+2022-03-27 21:43:35.160 -03:00 [INF] Now listening on: https://localhost:5001
+2022-03-27 21:43:35.161 -03:00 [INF] Now listening on: http://localhost:5000
+2022-03-27 21:43:35.162 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-03-27 21:43:35.162 -03:00 [INF] Hosting environment: Development
+2022-03-27 21:43:35.162 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api

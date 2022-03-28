@@ -1,0 +1,223 @@
+2021-07-20 09:46:04.898 -03:00 [INF] Application Starting.
+2021-07-20 09:46:05.690 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 09:46:05.773 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 09:46:05.780 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 09:46:05.781 -03:00 [INF] Hosting environment: Development
+2021-07-20 09:46:05.857 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 11:26:50.998 -03:00 [INF] Application Starting.
+2021-07-20 11:26:51.749 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 11:26:51.835 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 11:26:51.869 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 11:26:51.945 -03:00 [INF] Hosting environment: Development
+2021-07-20 11:26:51.947 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 11:28:39.462 -03:00 [INF] Application Starting.
+2021-07-20 11:28:40.264 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 11:28:40.304 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 11:28:40.383 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 11:28:40.385 -03:00 [INF] Hosting environment: Development
+2021-07-20 11:28:40.386 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 11:28:52.293 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 11:28:52.441 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 11:28:52.447 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 11:28:53.250 -03:00 [INF] Received HTTP response headers after 796.1241ms - 200
+2021-07-20 11:28:53.259 -03:00 [INF] End processing HTTP request after 824.8693ms - 200
+2021-07-20 11:28:53.310 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2021-07-20 13:41:28.463 -03:00 [INF] Application Starting.
+2021-07-20 13:41:29.440 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 13:41:29.603 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 13:41:29.609 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 13:41:29.611 -03:00 [INF] Hosting environment: Development
+2021-07-20 13:41:29.611 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 13:41:41.971 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 13:41:50.525 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 14:35:28.865 -03:00 [INF] Application Starting.
+2021-07-20 14:35:29.768 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 14:35:29.934 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 14:35:29.941 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 14:35:29.943 -03:00 [INF] Hosting environment: Development
+2021-07-20 14:35:29.944 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 14:35:45.477 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:35:52.965 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 14:40:33.550 -03:00 [INF] Application Starting.
+2021-07-20 14:40:34.377 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 14:40:34.519 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 14:40:34.525 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 14:40:34.527 -03:00 [INF] Hosting environment: Development
+2021-07-20 14:40:34.527 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 14:40:47.991 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:40:55.315 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 14:41:01.773 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 14:42:37.667 -03:00 [INF] Application Starting.
+2021-07-20 14:42:38.507 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 14:42:38.571 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 14:42:38.626 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 14:42:38.629 -03:00 [INF] Hosting environment: Development
+2021-07-20 14:42:38.630 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 14:42:50.590 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:42:50.690 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 14:42:50.692 -03:00 [INF] Configurações carregadas com sucesso...
+2021-07-20 14:42:50.692 -03:00 [INF] Nome da instância: 
+2021-07-20 14:42:50.692 -03:00 [INF] Servidor: 
+2021-07-20 14:42:50.693 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 14:42:50.824 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 14:43:10.490 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:43:16.683 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 14:43:19.288 -03:00 [INF] Configurações carregadas com sucesso...
+2021-07-20 14:43:20.161 -03:00 [INF] Nome da instância: 
+2021-07-20 14:43:22.283 -03:00 [INF] Servidor: 
+2021-07-20 14:43:23.492 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 14:45:21.511 -03:00 [INF] Application Starting.
+2021-07-20 14:45:22.375 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 14:45:22.415 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 14:45:22.495 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 14:45:22.497 -03:00 [INF] Hosting environment: Development
+2021-07-20 14:45:22.497 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 14:45:27.619 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:45:37.186 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 14:45:39.469 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 14:45:40.263 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 14:45:40.981 -03:00 [INF] Servidor: localhost
+2021-07-20 14:45:41.699 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 14:52:25.274 -03:00 [INF] Application Starting.
+2021-07-20 14:52:26.100 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 14:52:26.194 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 14:52:26.275 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 14:52:26.276 -03:00 [INF] Hosting environment: Development
+2021-07-20 14:52:26.277 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 14:52:39.955 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 14:52:40.046 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 14:52:46.258 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 14:52:46.270 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 14:52:46.271 -03:00 [INF] Servidor: localhost
+2021-07-20 14:52:46.273 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:18:28.609 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 20:18:40.281 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:18:40.301 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:18:40.302 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:18:40.302 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:18:40.302 -03:00 [INF] Servidor: localhost
+2021-07-20 20:18:40.302 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:20:09.306 -03:00 [INF] Application Starting.
+2021-07-20 20:20:10.152 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:20:10.290 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:20:10.295 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:20:10.296 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:20:10.297 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:20:28.237 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:20:28.328 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:20:28.329 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:20:28.329 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:20:28.329 -03:00 [INF] Servidor: localhost
+2021-07-20 20:20:28.330 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:25:31.245 -03:00 [INF] Application Starting.
+2021-07-20 20:25:32.121 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:25:32.188 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:25:32.297 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:25:32.298 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:25:32.299 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:25:38.237 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:25:38.331 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:25:38.332 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:25:38.333 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:25:38.333 -03:00 [INF] Servidor: localhost
+2021-07-20 20:25:38.333 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:28:10.644 -03:00 [INF] Application Starting.
+2021-07-20 20:28:11.442 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:28:11.583 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:28:11.588 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:28:11.589 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:28:11.590 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:28:16.708 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:28:16.798 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:28:16.800 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:28:16.800 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:28:16.800 -03:00 [INF] Servidor: localhost
+2021-07-20 20:28:16.801 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:28:17.513 -03:00 [INF] Get 04849050
+2021-07-20 20:28:17.573 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:28:17.579 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:28:18.003 -03:00 [ERR] Error ao buscar cep: 04849050
+2021-07-20 20:29:08.548 -03:00 [INF] Application Starting.
+2021-07-20 20:29:09.343 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:29:09.409 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:29:09.465 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:29:09.466 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:29:09.467 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:29:16.782 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:29:16.870 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:29:16.871 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:29:16.871 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:29:16.871 -03:00 [INF] Servidor: localhost
+2021-07-20 20:29:16.872 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:29:38.896 -03:00 [INF] Get 04849050
+2021-07-20 20:29:58.967 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:29:58.974 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:35:08.332 -03:00 [INF] Application Starting.
+2021-07-20 20:35:09.154 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:35:09.215 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:35:09.220 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:35:09.297 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:35:09.298 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:35:18.960 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:35:19.073 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:35:19.075 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:35:19.075 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:35:19.075 -03:00 [INF] Servidor: localhost
+2021-07-20 20:35:19.075 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:35:42.922 -03:00 [INF] Get 04849050
+2021-07-20 20:35:55.667 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:35:55.673 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:35:56.541 -03:00 [INF] Received HTTP response headers after 859.9239ms - 200
+2021-07-20 20:35:56.554 -03:00 [INF] End processing HTTP request after 894.9317ms - 200
+2021-07-20 20:37:58.677 -03:00 [INF] Application Starting.
+2021-07-20 20:37:59.410 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 20:37:59.475 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 20:37:59.556 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 20:37:59.558 -03:00 [INF] Hosting environment: Development
+2021-07-20 20:37:59.559 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 20:38:05.289 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:38:05.395 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:38:05.396 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:38:05.396 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:38:05.397 -03:00 [INF] Servidor: localhost
+2021-07-20 20:38:05.397 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:38:06.265 -03:00 [INF] Get 04849050
+2021-07-20 20:38:13.348 -03:00 [INF] Start processing HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:38:13.355 -03:00 [INF] Sending HTTP request GET "https://viacep.com.br/ws/04849050/json/"
+2021-07-20 20:38:14.062 -03:00 [INF] Received HTTP response headers after 702.4362ms - 200
+2021-07-20 20:38:14.077 -03:00 [INF] End processing HTTP request after 735.9805ms - 200
+2021-07-20 20:38:56.270 -03:00 [INF] inserindo 04849050: {"cep":"04849-050","logradouro":"Rua Demas Zitto","complemento":"","bairro":"Parque Residencial Cocaia","localidade":"S\u00E3o Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2021-07-20 20:39:08.529 -03:00 [INF] inserção realizada com sucesso no Redis!
+2021-07-20 20:39:19.631 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2021-07-20 20:39:28.188 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 20:39:28.201 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 20:39:28.201 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 20:39:28.201 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 20:39:28.201 -03:00 [INF] Servidor: localhost
+2021-07-20 20:39:28.202 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 20:39:28.670 -03:00 [INF] Get 04849050
+2021-07-20 20:43:35.645 -03:00 [INF] inserindo 04849050: {"cep":"04849-050","logradouro":"Rua Demas Zitto","complemento":"","bairro":"Parque Residencial Cocaia","localidade":"S\u00E3o Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2021-07-20 20:43:37.256 -03:00 [INF] inserção realizada com sucesso no Redis!
+2021-07-20 20:43:46.826 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2021-07-20 21:25:59.856 -03:00 [INF] Application Starting.
+2021-07-20 21:26:00.756 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 21:26:00.901 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 21:26:00.908 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 21:26:00.909 -03:00 [INF] Hosting environment: Development
+2021-07-20 21:26:00.910 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api
+2021-07-20 21:26:46.020 -03:00 [INF] Iniciando busca por cep: 04849050
+2021-07-20 21:26:46.123 -03:00 [INF] Carregando configurações do redis...
+2021-07-20 21:26:46.124 -03:00 [INF] Configurações carregadas com sucesso:
+2021-07-20 21:26:46.124 -03:00 [INF] Nome da instância: CepMicrosservice
+2021-07-20 21:26:46.124 -03:00 [INF] Servidor: localhost
+2021-07-20 21:26:46.124 -03:00 [INF] Tempo de expiração: 00:00:10
+2021-07-20 21:26:47.224 -03:00 [INF] Get 04849050
+2021-07-20 21:27:06.154 -03:00 [INF] inserindo 04849050: {"cep":"04849-050","logradouro":"Rua Demas Zitto","complemento":"","bairro":"Parque Residencial Cocaia","localidade":"S\u00E3o Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2021-07-20 21:27:06.274 -03:00 [INF] inserção realizada com sucesso no Redis!
+2021-07-20 21:27:06.287 -03:00 [INF] Deu tudo certo na busca do cep: 04849050, resultado: {"Cep":"04849-050","Logradouro":"Rua Demas Zitto","Complemento":"","Bairro":"Parque Residencial Cocaia","Localidade":"S\u00E3o Paulo","Uf":"SP","Ibge":"3550308","Gia":"1004","Ddd":"11","Siafi":"7107"}
+2021-07-20 21:27:35.404 -03:00 [INF] Application Starting.
+2021-07-20 21:27:36.142 -03:00 [INF] Now listening on: https://localhost:5001
+2021-07-20 21:27:36.307 -03:00 [INF] Now listening on: http://localhost:5000
+2021-07-20 21:27:36.319 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-07-20 21:27:36.321 -03:00 [INF] Hosting environment: Development
+2021-07-20 21:27:36.373 -03:00 [INF] Content root path: /Users/thiago/Projects/CepMicrosservice/Cep.Api

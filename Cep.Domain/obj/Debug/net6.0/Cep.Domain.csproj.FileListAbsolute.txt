@@ -1,0 +1,12 @@
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/bin/Debug/net6.0/Cep.Domain.deps.json
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/bin/Debug/net6.0/Cep.Domain.dll
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/bin/Debug/net6.0/Cep.Domain.pdb
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.csproj.AssemblyReference.cache
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.AssemblyInfoInputs.cache
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.AssemblyInfo.cs
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.csproj.CoreCompileInputs.cache
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.dll
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/refint/Cep.Domain.dll
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/Cep.Domain.pdb
+/Users/thiago/Projects/CepMicrosservice/Cep.Domain/obj/Debug/net6.0/ref/Cep.Domain.dll
