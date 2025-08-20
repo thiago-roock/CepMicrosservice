@@ -1,18 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Reflection;
+﻿using System.Reflection;
 using Cep.Domain.Handlers;
 using Cep.Domain.Infrastructure.ExternalServices;
 using Cep.Domain.Infrastructure.Repository;
 using Cep.Infrastructure.Repository;
-using FluentValidation.AspNetCore;
-using MediatR;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
+using FluentValidation;
 using Microsoft.Extensions.PlatformAbstractions;
 using Microsoft.OpenApi.Models;
 using Refit;
@@ -38,13 +29,15 @@ namespace Cep.Api
             var domainAssembly = typeof(CepHandler).Assembly;
 
             mvcBuilder
-                .AddApiExplorer()
-                .AddFluentValidation(setup =>
-                setup.RegisterValidatorsFromAssembly(domainAssembly));
-
+                .AddApiExplorer();
+               
             services
+                 .AddValidatorsFromAssembly(domainAssembly)
+                 .AddMediatR(cfg =>
+                 {
+                    cfg.RegisterServicesFromAssembly(domainAssembly);
+                 })
                 .AddSwagger(configuration)
-                .AddMediatR(domainAssembly)
                 .AddLogging()
                 .AddCache(configuration)
                 .AddHealthChecks();
